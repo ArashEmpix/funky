@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '228541533:AAEUqL2vvMZdbKI2uIRH2zlrnGMADOoBuSE',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	superadmins = {23646077, 278941742},
@@ -18,8 +18,8 @@ return {
 		stream_commands = true,
 		admin_mode = false
 	},
-	channel = '@groupbutler_ch', --channel username with the '@'
-	source_code = 'https://github.com/RememberTheAir/GroupButler',
+	channel = '@ArashEmpix', --channel username with the '@'
+	source_code = 'Unvilible',
 	help_groups = {
 		['Internatonal (English)'] = 'https://telegram.me/joinchat/EKBQLj7Zf6lE2K_Pk0Epcg', --group link, not username!
 		['Italian'] = 'https://telegram.me/joinchat/ITAgroupbutler',
